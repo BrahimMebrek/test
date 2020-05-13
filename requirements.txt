@@ -16,4 +16,4 @@ plotly == 4.5.4
 seaborn == 0.9.0
 
 # D:\pf\Projet\Upfield\test\analyse_client_produit.ipynb: 1
-~umpy == 1.16.5
+numpy == 1.16.5
